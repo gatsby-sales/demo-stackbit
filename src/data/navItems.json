@@ -1,0 +1,6 @@
+[
+  { "to": "/", "text": "Link 1", "type": "link" },
+  { "to": "/", "text": "Link 2", "type": "link" },
+  { "to": "/", "text": "Button", "type": "button" },
+  { "to": null, "text": null, "type": "search" }
+]

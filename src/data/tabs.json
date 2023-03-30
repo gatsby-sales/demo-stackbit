@@ -1,0 +1,14 @@
+[
+  {
+    "label": { "heading": "Tab 1", "body": "I am the accompanying body text" },
+    "panel": "1 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu ante at erat elementum sodales sed nec lacus. Praesent feugiat dapibus finibus. Nullam gravida leo vitae est semper, sed auctor nulla cursus. Nunc feugiat rhoncus ex sit amet lacinia. Nulla porttitor sed sem vel blandit. Pellentesque congue non neque vel fermentum. Nulla viverra, ex sit amet lacinia porta, tellus quam maximus magna, a egestas magna risus quis lacus. Proin euismod velit at pellentesque ornare. Ut sodales, libero vitae congue gravida, elit urna faucibus leo, id volutpat quam nibh quis felis. Ut auctor commodo massa. Etiam molestie, ex id dictum maximus, odio est vestibulum orci, eget ultrices augue odio vel magna. Integer ultricies quam sed nisi egestas sagittis. Donec gravida semper massa, quis malesuada nisl eleifend ut. Phasellus sed maximus magna."
+  },
+  {
+    "label": { "heading": "Tab 2", "body": "I am the accompanying body text" },
+    "panel": "2 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu ante at erat elementum sodales sed nec lacus. Praesent feugiat dapibus finibus. Nullam gravida leo vitae est semper, sed auctor nulla cursus. Nunc feugiat rhoncus ex sit amet lacinia. Nulla porttitor sed sem vel blandit. Pellentesque congue non neque vel fermentum. Nulla viverra, ex sit amet lacinia porta, tellus quam maximus magna, a egestas magna risus quis lacus. Proin euismod velit at pellentesque ornare. Ut sodales, libero vitae congue gravida, elit urna faucibus leo, id volutpat quam nibh quis felis. Ut auctor commodo massa. Etiam molestie, ex id dictum maximus, odio est vestibulum orci, eget ultrices augue odio vel magna. Integer ultricies quam sed nisi egestas sagittis. Donec gravida semper massa, quis malesuada nisl eleifend ut. Phasellus sed maximus magna."
+  },
+  {
+    "label": { "heading": "Tab 3", "body": "I am the accompanying body text" },
+    "panel": "3 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu ante at erat elementum sodales sed nec lacus. Praesent feugiat dapibus finibus. Nullam gravida leo vitae est semper, sed auctor nulla cursus. Nunc feugiat rhoncus ex sit amet lacinia. Nulla porttitor sed sem vel blandit. Pellentesque congue non neque vel fermentum. Nulla viverra, ex sit amet lacinia porta, tellus quam maximus magna, a egestas magna risus quis lacus. Proin euismod velit at pellentesque ornare. Ut sodales, libero vitae congue gravida, elit urna faucibus leo, id volutpat quam nibh quis felis. Ut auctor commodo massa. Etiam molestie, ex id dictum maximus, odio est vestibulum orci, eget ultrices augue odio vel magna. Integer ultricies quam sed nisi egestas sagittis. Donec gravida semper massa, quis malesuada nisl eleifend ut. Phasellus sed maximus magna."
+  }
+]
